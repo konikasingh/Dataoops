@@ -1,0 +1,16 @@
+E:\vs\oops\oops\obj\Debug\net5.0\oops.csproj.AssemblyReference.cache
+E:\vs\oops\oops\obj\Debug\net5.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\oops\oops\obj\Debug\net5.0\oops.AssemblyInfoInputs.cache
+E:\vs\oops\oops\obj\Debug\net5.0\oops.AssemblyInfo.cs
+E:\vs\oops\oops\obj\Debug\net5.0\oops.csproj.CoreCompileInputs.cache
+E:\vs\oops\oops\bin\Debug\net5.0\oops.exe
+E:\vs\oops\oops\bin\Debug\net5.0\oops.deps.json
+E:\vs\oops\oops\bin\Debug\net5.0\oops.runtimeconfig.json
+E:\vs\oops\oops\bin\Debug\net5.0\oops.runtimeconfig.dev.json
+E:\vs\oops\oops\bin\Debug\net5.0\oops.dll
+E:\vs\oops\oops\bin\Debug\net5.0\ref\oops.dll
+E:\vs\oops\oops\bin\Debug\net5.0\oops.pdb
+E:\vs\oops\oops\obj\Debug\net5.0\oops.dll
+E:\vs\oops\oops\obj\Debug\net5.0\ref\oops.dll
+E:\vs\oops\oops\obj\Debug\net5.0\oops.pdb
+E:\vs\oops\oops\obj\Debug\net5.0\oops.genruntimeconfig.cache
